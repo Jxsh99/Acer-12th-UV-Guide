@@ -1,0 +1,3 @@
+Drop EFI to root of FAT32 USB/HDD partition minimum size 512mb required
+
+Drop config on the root of the USB (not in EFI folder based on the laptop you have.
